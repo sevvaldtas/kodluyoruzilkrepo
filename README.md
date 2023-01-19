@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-[Kodluyoruz](https://www.kodluyoruz.org) İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+[Kodluyoruz](https://www.kodluyoruz.org) Bu repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
 ![github](markdown/img.png)
